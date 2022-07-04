@@ -69,6 +69,4 @@ fetch(`https://api.adviceslip.com/advice`, {
 
 ## Author
 
-- Frontend Mentor - [@zougari47](https://www.frontendmentor.io/profile/zougari47)
-- Twitter - [@zougari47](https://www.twitter.com/zougari47)
-- codepen - [@zougari47](https://codepen.io/zougari47)
+- Aaditya Vikram
